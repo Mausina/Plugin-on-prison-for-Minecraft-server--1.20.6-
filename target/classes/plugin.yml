@@ -1,0 +1,15 @@
+name: Prison1_0
+version: 1.0
+main: damfli.prison.Prison1_0
+api-version: 1.20
+commands:
+  set_jail:
+    description: Set the jail location.
+  prison_stick:
+    description: Give a prison stick.
+  imprison:
+    description: Imprison a player.
+  set_jail_area:
+    description: Set the jail area using selection.
+  free:
+    description: Release imprisoned players.
