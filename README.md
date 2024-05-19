@@ -1,10 +1,6 @@
-at this work on few comand
-
-
-
+at this moment work only few comand
 
 /set_jail (set jail and name )
-
 
 /prison_stick (work like axe from worl edit)
 
@@ -12,4 +8,4 @@ at this work on few comand
 
 /set_jail_area ( set jail area)
 
-/free (make player or player free)
+/free (unprison player or players)
